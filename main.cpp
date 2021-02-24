@@ -17,8 +17,10 @@ int main ()
     Step3. 
           Build atoms -box 
     Step4. 
-         First generate velocity on all atoms.
+         First generate velocity on all atoms. 
     Step5. 
+         Calculation of Force on each atoms
+      
          
     
   
