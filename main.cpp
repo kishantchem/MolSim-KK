@@ -17,7 +17,9 @@ int main ()
     Step3. 
           Build atoms -box 
     Step4. 
-          
+         First generate velocity on all atoms.
+    Step5. 
+         
     
   
 
